@@ -1,0 +1,25 @@
+id,hair,glasses,hat,jacket,accessory
+1,BLOND,N,none,red,necklace
+2,BLOND,Y,baseball,blue,tie
+3,BROWN,N,beanie,green,scarf
+4,BROWN,Y,none,black,backpack
+5,BLACK,N,baseball,blue,scarf
+6,BLACK,Y,beanie,red,necklace
+7,RED,N,none,green,backpack
+8,RED,Y,baseball,black,scarf
+9,BLOND,N,beanie,black,tie
+10,BLOND,Y,none,green,scarf
+11,BROWN,N,baseball,red,necklace
+12,BROWN,Y,beanie,blue,tie
+13,BLACK,N,none,blue,backpack
+14,BLACK,Y,baseball,green,scarf
+15,RED,N,beanie,red,tie
+16,RED,Y,none,blue,necklace
+17,BLACK,Y,beanie,green,scarf   # <- perpetrator
+18,BLOND,N,baseball,black,backpack
+19,BROWN,Y,none,red,scarf
+20,BLACK,N,beanie,black,tie
+21,RED,Y,baseball,green,necklace
+22,BROWN,N,none,blue,tie
+23,BLOND,Y,beanie,red,backpack
+24,BLACK,N,none,green,necklace
